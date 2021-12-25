@@ -1,0 +1,1 @@
+This Project Is A 3D Ursina Engine Project. It's Like 3D Minecraft But Simpler. You Can Switch Between Blocks Using The Numbers: 1,2,3,4. Pressing The ESC Key Will Close The Game. The Void Is Never Ending So You Will Have To ESC If You Fall There. Feel Free To Make Changes To The Source Code If You Understand How It Works And Runs.
