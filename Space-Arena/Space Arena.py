@@ -214,7 +214,7 @@ character_pen.color = "red"
 character_pen.draw_string(pen, "SPACE ARENA", 0, 160)
 
 character_pen.scale = 1.0
-character_pen.draw_string(pen, "By Shivan Thaker", 0, 100)
+character_pen.draw_string(pen, "By LyonAlpha", 0, 100)
 
 # Draw (Main) Splash Screen
 
