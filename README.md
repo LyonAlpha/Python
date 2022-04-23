@@ -3,7 +3,7 @@ A Repository To Store My Python Programs
 
 ----------------------Credit-(Youtube/Github)----------------------
 
-Most CREDIT GOES TO TokyoEdtech (Wynand1004) Except Some Changes May Be Made
+Most CREDIT GOES TO TokyoEdtech (Wynand1004) Except Some Changes May Be Made.
 The Programming Language Is Made From CodePulse.
 The 3d Engine is Made From ClearCode.
 Excel In Python Is Made From TechWithTim (I Think).
